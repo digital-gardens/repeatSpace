@@ -3,7 +3,7 @@
 
 
 (for me, a #repeatSpace
-is merely
+is 
 a paper or computer memory space ...
 that helps me
 to repeat
