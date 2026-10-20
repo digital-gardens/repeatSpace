@@ -11,6 +11,6 @@ ideas
 )
 
 (more notes are at 
-https://github.com/digital-gardens/Martin-Milan/blob/main/a..repeatSpace/repeatSpace.rr.md
+https://github.com/digital-gardens/Martin-Milan/blob/main/a..repeatSpace/
 )
 
